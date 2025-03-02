@@ -1,0 +1,1682 @@
+[
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "clues": [
+            "Home to a giant clock tower often mistaken for its bell.",
+            "This city has hosted the Olympics three times."
+        ],
+        "fun_fact": [
+            "London’s subway, the Tube, is the oldest underground railway in the world.",
+            "There’s a hidden medieval street underneath the Bank of England."
+        ],
+        "trivia": [
+            "London has more than 170 museums, including the British Museum, which is free to enter.",
+            "There are over 8,500 buses in London’s transport system!"
+        ]
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "clues": [
+            "The capital of an ancient empire, with ruins dating back over 2,000 years.",
+            "Home to a country within a city."
+        ],
+        "fun_fact": [
+            "The Colosseum could hold up to 50,000 spectators in ancient times.",
+            "Rome has a museum dedicated to pasta!"
+        ],
+        "trivia": [
+            "Tossing a coin into the Trevi Fountain is said to guarantee a return trip.",
+            "Vatican City, located in Rome, is the smallest country in the world."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Famous for an opera house with a sail-like design.",
+            "You can climb this city's massive steel bridge."
+        ],
+        "fun_fact": [
+            "Sydney’s Opera House was designed by a Danish architect and almost wasn’t built!",
+            "There are more than 100 beaches in Sydney."
+        ],
+        "trivia": [
+            "The Sydney Harbour Bridge is the world’s largest steel arch bridge.",
+            "Sydney was the first city to see the new millennium’s sunrise in 2000."
+        ]
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "clues": [
+            "This city is home to the last surviving Wonder of the Ancient World.",
+            "A river famous for its length flows through here."
+        ],
+        "fun_fact": [
+            "The Great Pyramid of Giza was the tallest human-made structure for 3,800 years.",
+            "The Sphinx’s nose is missing, and no one knows exactly how it was lost!"
+        ],
+        "trivia": [
+            "Cairo is the largest city in the Middle East and Africa.",
+            "Ancient Egyptians used honey as a natural sweetener and medicine."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "Famous for a massive statue overlooking the city.",
+            "Home to the world’s largest carnival celebration."
+        ],
+        "fun_fact": [
+            "The city’s name means 'River of January' in Portuguese.",
+            "Sugarloaf Mountain got its name because it resembles a traditional sugar loaf shape."
+        ],
+        "trivia": [
+            "Rio’s Copacabana Beach hosts over 2 million people for New Year’s celebrations.",
+            "Christ the Redeemer is struck by lightning multiple times each year!"
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "clues": [
+            "Home to the Grand Palace and a reclining Buddha.",
+            "Famous for its floating markets and street food."
+        ],
+        "fun_fact": [
+            "Bangkok's full name is the longest city name in the world!",
+            "Tuk-tuks are a popular mode of transportation here."
+        ],
+        "trivia": [
+            "Bangkok receives more tourists than any other city in the world.",
+            "The city has over 400 temples."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "clues": [
+            "Home to the tallest building in the world.",
+            "This city has an indoor ski slope in the desert."
+        ],
+        "fun_fact": [
+            "Dubai was once a small fishing village before becoming a global hub.",
+            "Gold ATMs allow you to withdraw actual gold bars."
+        ],
+        "trivia": [
+            "The Burj Khalifa is 828 meters tall.",
+            "Dubai has man-made islands shaped like a world map."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "The only city in the world spanning two continents.",
+            "Famous for its grand bazaar and historic mosques."
+        ],
+        "fun_fact": [
+            "Istanbul was formerly known as Byzantium and Constantinople.",
+            "It has more than 3,000 mosques."
+        ],
+        "trivia": [
+            "The Grand Bazaar has over 4,000 shops.",
+            "The Hagia Sophia was once a church, then a mosque, then a museum, and now a mosque again."
+        ]
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "clues": [
+            "Home to colorful onion-domed cathedrals.",
+            "Famous for its Red Square and Kremlin."
+        ],
+        "fun_fact": [
+            "Moscow’s subway stations are so beautiful they look like palaces.",
+            "The Kremlin is the world’s largest medieval fortress still in use."
+        ],
+        "trivia": [
+            "The city’s coldest recorded temperature was -42°C (-44°F).",
+            "Moscow’s Metro carries over 6 million passengers daily."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "This city is home to Table Mountain.",
+            "You can visit a former prison where Nelson Mandela was held."
+        ],
+        "fun_fact": [
+            "Penguins can be found on its beaches!",
+            "Cape Town was originally a Dutch colony."
+        ],
+        "trivia": [
+            "Table Mountain is one of the oldest mountains in the world.",
+            "The Cape Floral Kingdom is the smallest but richest floral kingdom on Earth."
+        ]
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "clues": [
+            "Once divided by a wall, now a symbol of unity.",
+            "Famous for its Brandenburg Gate."
+        ],
+        "fun_fact": [
+            "Berlin has more bridges than Venice.",
+            "The city has the largest train station in Europe."
+        ],
+        "trivia": [
+            "There are more museums in Berlin than rainy days in a year.",
+            "Berlin has over 1,000 Spätis (24-hour corner shops)."
+        ]
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "clues": [
+            "Built on the ruins of an ancient Aztec capital.",
+            "One of the largest cities in the world."
+        ],
+        "fun_fact": [
+            "Mexico City sinks a few inches every year due to its foundation.",
+            "The city has the largest number of museums in the Americas."
+        ],
+        "trivia": [
+            "Over 20 million people live in the metropolitan area.",
+            "It is home to the world’s largest university campus."
+        ]
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "clues": [
+            "This city has one of the tallest freestanding towers in the world.",
+            "Known for its multicultural diversity."
+        ],
+        "fun_fact": [
+            "Toronto is home to over 200 ethnic groups.",
+            "More than half of its residents were born outside of Canada."
+        ],
+        "trivia": [
+            "The CN Tower was once the tallest tower in the world.",
+            "Toronto has the third-largest public transit system in North America."
+        ]
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "clues": [
+            "A city where ancient palaces coexist with K-pop culture.",
+            "Home to the world’s fastest internet speeds."
+        ],
+        "fun_fact": [
+            "Seoul has five ancient palaces.",
+            "The city has a 24-hour library on the subway."
+        ],
+        "trivia": [
+            "More than half of South Korea’s population lives in the Seoul metropolitan area.",
+            "The city has underground shopping malls stretching for miles."
+        ]
+    },
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "clues": [
+            "A city-state known for its futuristic skyline and cleanliness.",
+            "Home to the world’s tallest indoor waterfall."
+        ],
+        "fun_fact": [
+            "Chewing gum is banned in Singapore.",
+            "The city has an airport with a butterfly garden."
+        ],
+        "trivia": [
+            "Singapore has four official languages.",
+            "It is one of the world’s greenest cities, with over 50% covered in greenery."
+        ]
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "clues": [
+            "This city is the birthplace of democracy.",
+            "Home to the Acropolis and the Parthenon."
+        ],
+        "fun_fact": [
+            "Athens has been continuously inhabited for over 3,000 years.",
+            "The marathon race was inspired by an event in ancient Greece."
+        ],
+        "trivia": [
+            "The Olympic Games originated in Greece.",
+            "Athens is one of the sunniest cities in Europe."
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "country": "USA",
+        "clues": [
+            "Known for Hollywood and the entertainment industry.",
+            "This city has a famous sign on a hill."
+        ],
+        "fun_fact": [
+            "Los Angeles has more cars than people.",
+            "The Hollywood sign originally read 'Hollywoodland'."
+        ],
+        "trivia": [
+            "L.A. has hosted the Olympics twice and will again in 2028.",
+            "The city has over 100 museums."
+        ]
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "clues": [
+            "Known as the 'Paris of South America'.",
+            "Famous for tango and steak."
+        ],
+        "fun_fact": [
+            "Buenos Aires has more bookstores per capita than any other city.",
+            "The city has a pink presidential palace."
+        ],
+        "trivia": [
+            "It is home to one of the world’s most beautiful bookstores, El Ateneo Grand Splendid.",
+            "Buenos Aires has the widest avenue in the world."
+        ]
+    },
+    {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "clues": [
+            "Built on seven hills with iconic yellow trams.",
+            "Famous for custard tarts and fado music."
+        ],
+        "fun_fact": [
+            "Lisbon is one of the oldest cities in Western Europe, predating Rome.",
+            "It was almost entirely rebuilt after an earthquake in 1755."
+        ],
+        "trivia": [
+            "The Vasco da Gama Bridge is one of the longest in Europe.",
+            "Lisbon’s trams were originally imported from the USA."
+        ]
+    },
+    {
+        "city": "Venice",
+        "country": "Italy",
+        "clues": [
+            "A city built on canals with gondolas instead of cars.",
+            "Hosts a famous masked carnival each year."
+        ],
+        "fun_fact": [
+            "Venice is sinking by 1-2 millimeters per year.",
+            "There are over 400 bridges connecting its islands."
+        ],
+        "trivia": [
+            "Venice has no roads, only canals.",
+            "Marco Polo, the famous explorer, was born here."
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "Norway",
+        "clues": [
+            "Surrounded by fjords and home to Viking history.",
+            "Hosts the Nobel Peace Prize ceremony."
+        ],
+        "fun_fact": [
+            "Oslo was once called Christiania.",
+            "The city has more electric cars per capita than any other city."
+        ],
+        "trivia": [
+            "Oslo’s metro reaches deep into the forests surrounding the city.",
+            "The world’s largest sculpture park by a single artist is in Oslo."
+        ]
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "clues": [
+            "Built on 14 islands connected by over 50 bridges.",
+            "Home to the world’s first open-air museum."
+        ],
+        "fun_fact": [
+            "Stockholm’s subway is often called the world’s longest art gallery.",
+            "The city was founded in the 13th century."
+        ],
+        "trivia": [
+            "The Nobel Prizes (except the Peace Prize) are awarded in Stockholm.",
+            "The city’s Old Town, Gamla Stan, dates back to medieval times."
+        ]
+    },
+    {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "clues": [
+            "A city famous for its street food and chaotic traffic.",
+            "Home to the Temple of Literature, a historic university."
+        ],
+        "fun_fact": [
+            "Hanoi has a lake with a legendary giant turtle.",
+            "The city has a famous train street where trains pass just inches from homes."
+        ],
+        "trivia": [
+            "Pho, the famous noodle soup, originated in northern Vietnam.",
+            "Hanoi has a vibrant coffee culture, including egg coffee!"
+        ]
+    },
+    {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "clues": [
+            "Known as the 'Red City' because of its sandstone buildings.",
+            "Famous for its bustling markets and snake charmers."
+        ],
+        "fun_fact": [
+            "Marrakech’s medina is a UNESCO World Heritage site.",
+            "The city’s Jardin Majorelle was owned by Yves Saint Laurent."
+        ],
+        "trivia": [
+            "The Koutoubia Mosque’s minaret inspired the Giralda in Seville.",
+            "The souks in Marrakech are some of the largest in Africa."
+        ]
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "clues": [
+            "Known for its saunas and design culture.",
+            "One of the world's northernmost capitals."
+        ],
+        "fun_fact": [
+            "Helsinki has more than 3 million saunas.",
+            "The city was once part of Sweden and then Russia before gaining independence."
+        ],
+        "trivia": [
+            "Helsinki’s library, Oodi, has robots that organize books.",
+            "The city has an underground church carved into solid rock."
+        ]
+    },
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "clues": [
+            "Home to Bollywood, India’s film industry.",
+            "One of the most populous cities in the world."
+        ],
+        "fun_fact": [
+            "Mumbai was originally seven separate islands.",
+            "The city’s dabbawalas deliver over 200,000 lunches daily with near-perfect accuracy."
+        ],
+        "trivia": [
+            "The Gateway of India was built to commemorate a royal visit.",
+            "Mumbai’s local trains carry over 7 million people daily."
+        ]
+    },
+    {
+        "city": "Vancouver",
+        "country": "Canada",
+        "clues": [
+            "A coastal city surrounded by mountains.",
+            "Frequently ranked as one of the world’s most livable cities."
+        ],
+        "fun_fact": [
+            "Vancouver has a rainforest within city limits.",
+            "It hosted the 2010 Winter Olympics."
+        ],
+        "trivia": [
+            "Stanley Park is bigger than New York’s Central Park.",
+            "The city has one of the largest film industries in North America."
+        ]
+    },
+    {
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "clues": [
+            "Home to a famous castle built on an extinct volcano.",
+            "Hosts the world’s largest arts festival every August."
+        ],
+        "fun_fact": [
+            "Edinburgh’s Old Town has underground streets from centuries ago.",
+            "The city inspired J.K. Rowling’s Harry Potter series."
+        ],
+        "trivia": [
+            "The Royal Mile is exactly one Scottish mile long.",
+            "Edinburgh was the first city to be designated as a UNESCO City of Literature."
+        ]
+    },
+    {
+        "city": "Kyoto",
+        "country": "Japan",
+        "clues": [
+            "Known for its thousands of temples and shrines.",
+            "Famous for its geisha district and cherry blossoms."
+        ],
+        "fun_fact": [
+            "Kyoto was once the capital of Japan.",
+            "It has more than 1,600 Buddhist temples."
+        ],
+        "trivia": [
+            "The Fushimi Inari Shrine has over 10,000 red torii gates.",
+            "Kyoto is known for its traditional tea ceremonies."
+        ]
+    },
+    {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "clues": [
+            "Nicknamed 'The City of a Hundred Spires'.",
+            "Home to one of the oldest astronomical clocks in the world."
+        ],
+        "fun_fact": [
+            "Prague Castle is the largest ancient castle complex in the world.",
+            "The Charles Bridge was built with eggs mixed into the mortar for strength."
+        ],
+        "trivia": [
+            "Prague’s Old Town Square has been a marketplace since the 12th century.",
+            "The city has a narrow alley with a traffic light to control pedestrians."
+        ]
+    },
+    {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "clues": [
+            "One of the most densely populated cities in the world.",
+            "Located on the island of Java."
+        ],
+        "fun_fact": [
+            "Jakarta was once called Batavia during Dutch colonial rule.",
+            "It is sinking at one of the fastest rates of any major city."
+        ],
+        "trivia": [
+            "Jakarta’s traffic is among the worst in the world.",
+            "The city has over 13,000 islands in its province."
+        ]
+    },
+    {
+        "city": "Auckland",
+        "country": "New Zealand",
+        "clues": [
+            "Known as the 'City of Sails' due to its love of boating.",
+            "Built on over 50 extinct volcanoes."
+        ],
+        "fun_fact": [
+            "Auckland has more boats per capita than any other city.",
+            "It is home to one of the tallest towers in the Southern Hemisphere."
+        ],
+        "trivia": [
+            "Auckland was once the capital of New Zealand.",
+            "It has a black sand beach made from volcanic rock."
+        ]
+    },
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "The northernmost capital city in the world.",
+            "Famous for its geothermal pools and the Northern Lights."
+        ],
+        "fun_fact": [
+            "Iceland has no McDonald's restaurants.",
+            "Reykjavik runs almost entirely on renewable energy."
+        ],
+        "trivia": [
+            "The city's name means 'Smoky Bay' due to its hot springs.",
+            "It has a festival celebrating Icelandic sagas."
+        ]
+    },
+    {
+        "city": "Lima",
+        "country": "Peru",
+        "clues": [
+            "The capital of a country known for Machu Picchu.",
+            "Famous for its coastal cliffs and ceviche."
+        ],
+        "fun_fact": [
+            "Lima was once the wealthiest city in the Americas.",
+            "It rarely rains despite being next to the Pacific Ocean."
+        ],
+        "trivia": [
+            "Lima has the oldest university in the Americas.",
+            "The city has an underground catacomb system."
+        ]
+    },
+    {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "clues": [
+            "Shares a name with a famous classic film.",
+            "Home to one of the largest mosques in the world."
+        ],
+        "fun_fact": [
+            "The Hassan II Mosque has the world’s tallest minaret.",
+            "Casablanca was a key location during World War II."
+        ],
+        "trivia": [
+            "It is Morocco’s largest city but not the capital.",
+            "The city was originally a Berber settlement."
+        ]
+    },
+    {
+        "city": "Nairobi",
+        "country": "Kenya",
+        "clues": [
+            "A city where skyscrapers meet safari parks.",
+            "Home to the only national park in the world inside a capital city."
+        ],
+        "fun_fact": [
+            "Nairobi was founded as a railway camp in the 19th century.",
+            "The name means 'cool water' in Maasai."
+        ],
+        "trivia": [
+            "It has a giraffe sanctuary where you can feed giraffes by hand.",
+            "The city is home to many tech startups, earning it the nickname 'Silicon Savannah'."
+        ]
+    },
+    {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "clues": [
+            "Known for its colorful harbor and cycling culture.",
+            "Home to the famous Little Mermaid statue."
+        ],
+        "fun_fact": [
+            "Copenhagen is one of the most bike-friendly cities in the world.",
+            "The city has a free amusement park called Tivoli Gardens."
+        ],
+        "trivia": [
+            "It has a man-made island dedicated to sustainability.",
+            "The world’s oldest operating amusement park is near Copenhagen."
+        ]
+    },
+    {
+        "city": "Brussels",
+        "country": "Belgium",
+        "clues": [
+            "Famous for waffles, chocolate, and the European Union.",
+            "Home to a statue of a small peeing boy."
+        ],
+        "fun_fact": [
+            "Brussels hosts the headquarters of NATO.",
+            "The city has more than 2,000 restaurants."
+        ],
+        "trivia": [
+            "Brussels sprouts are actually named after the city.",
+            "The city has three official languages."
+        ]
+    },
+    {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "clues": [
+            "Home to the Petronas Twin Towers.",
+            "A city where cultures and cuisines mix."
+        ],
+        "fun_fact": [
+            "Kuala Lumpur means 'muddy confluence' in Malay.",
+            "It has one of the largest shopping malls in the world."
+        ],
+        "trivia": [
+            "The Batu Caves have a giant golden statue at the entrance.",
+            "The city’s airport has a rainforest inside."
+        ]
+    },
+    {
+        "city": "Hong Kong",
+        "country": "China",
+        "clues": [
+            "A city famous for its skyline and Victoria Harbour.",
+            "Home to one of the world’s busiest financial centers."
+        ],
+        "fun_fact": [
+            "Hong Kong has more skyscrapers than any other city.",
+            "The city has an underground shopping mall network."
+        ],
+        "trivia": [
+            "More people live above the 14th floor here than anywhere else in the world.",
+            "It has one of the world’s longest escalators."
+        ]
+    },
+    {
+        "city": "São Paulo",
+        "country": "Brazil",
+        "clues": [
+            "The largest city in South America.",
+            "Known for its massive street art scene."
+        ],
+        "fun_fact": [
+            "São Paulo has the largest Japanese community outside Japan.",
+            "It is home to the largest helicopter fleet in the world."
+        ],
+        "trivia": [
+            "The city’s football rivalry is one of the fiercest in the world.",
+            "Its population is larger than that of many countries."
+        ]
+    },
+    {
+        "city": "Santiago",
+        "country": "Chile",
+        "clues": [
+            "A city surrounded by the Andes Mountains.",
+            "Known for its vibrant street markets and wine culture."
+        ],
+        "fun_fact": [
+            "Santiago is one of the safest capital cities in South America.",
+            "The city has an underground tunnel system for quick commuting."
+        ],
+        "trivia": [
+            "It experiences earthquakes frequently but is well-prepared for them.",
+            "Santiago’s metro is one of the most modern in Latin America."
+        ]
+    },
+    {
+        "city": "Manila",
+        "country": "Philippines",
+        "clues": [
+            "A bustling city with Spanish colonial history.",
+            "Known for jeepneys and vibrant street life."
+        ],
+        "fun_fact": [
+            "The city was heavily bombed during World War II.",
+            "It has one of the largest Chinatowns in the world."
+        ],
+        "trivia": [
+            "Manila’s name comes from 'Maynila,' meaning 'where indigo grows'.",
+            "It has a fortress that once served as a Spanish prison."
+        ]
+    },
+    {
+        "city": "Bogotá",
+        "country": "Colombia",
+        "clues": [
+            "A high-altitude capital with cobblestone streets.",
+            "Famous for its street art and gold museum."
+        ],
+        "fun_fact": [
+            "Bogotá is the third-highest capital city in the world.",
+            "It has the largest network of bicycle paths in Latin America."
+        ],
+        "trivia": [
+            "It was originally called Bacatá by the indigenous Muisca people.",
+            "Bogotá’s El Dorado airport is named after the legend of the golden city."
+        ]
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "clues": [
+            "A city with a famous red bridge.",
+            "Known for its cable cars and steep streets."
+        ],
+        "fun_fact": [
+            "The Golden Gate Bridge was once the longest suspension bridge in the world.",
+            "San Francisco has over 50 hills."
+        ],
+        "trivia": [
+            "The fortune cookie was invented here.",
+            "It was almost called Yerba Buena before being renamed."
+        ]
+    },
+    {
+        "city": "Munich",
+        "country": "Germany",
+        "clues": [
+            "Famous for its annual beer festival.",
+            "Home to a fairytale-like castle that inspired Disney."
+        ],
+        "fun_fact": [
+            "Munich’s beer gardens have a strict rule: no music after 10 PM.",
+            "BMW’s headquarters is shaped like a four-cylinder engine."
+        ],
+        "trivia": [
+            "The Oktoberfest originally celebrated a royal wedding.",
+            "Munich has one of the oldest subway systems in Germany."
+        ]
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "clues": [
+            "Home to an ancient hilltop citadel.",
+            "Known as the birthplace of democracy."
+        ],
+        "fun_fact": [
+            "The Olympic Games originated in Greece.",
+            "Athens is one of the oldest cities in the world, with over 3,000 years of history."
+        ],
+        "trivia": [
+            "The Acropolis was once brightly painted, not just white marble.",
+            "The city has more theaters than any other in the world."
+        ]
+    },
+    {
+        "city": "Seville",
+        "country": "Spain",
+        "clues": [
+            "Known for flamenco dancing and bullfighting.",
+            "Home to one of the largest Gothic cathedrals in the world."
+        ],
+        "fun_fact": [
+            "Christopher Columbus is buried here (or at least part of him!).",
+            "Seville has a wooden structure called Metropol Parasol, nicknamed 'The Mushrooms'."
+        ],
+        "trivia": [
+            "The Alcázar of Seville was used as a filming location for Game of Thrones.",
+            "The city was a major trading port during Spain’s Golden Age."
+        ]
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "clues": [
+            "A city famous for tango and steak.",
+            "Home to a colorful neighborhood called La Boca."
+        ],
+        "fun_fact": [
+            "Buenos Aires has the widest avenue in the world, spanning 14 lanes.",
+            "The city has more bookstores per capita than any other in the world."
+        ],
+        "trivia": [
+            "Its name means 'Good Air' in Spanish.",
+            "The Obelisk is one of the city's most iconic landmarks."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "A city that spans two continents.",
+            "Home to a famous blue-domed mosque."
+        ],
+        "fun_fact": [
+            "Istanbul was once called Byzantium and then Constantinople.",
+            "It is the only city in the world that lies on two continents."
+        ],
+        "trivia": [
+            "The Grand Bazaar has over 4,000 shops.",
+            "Tulips were first introduced to Europe from Istanbul, not the Netherlands."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "Famous for a flat-topped mountain.",
+            "Home to penguins on a beach."
+        ],
+        "fun_fact": [
+            "Cape Town was originally called the 'Cape of Storms'.",
+            "The first successful human heart transplant was performed here."
+        ],
+        "trivia": [
+            "The city has the highest concentration of biodiversity in the world.",
+            "Nelson Mandela was imprisoned on Robben Island near Cape Town."
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "clues": [
+            "Known for its floating markets and golden temples.",
+            "Has a street famous for backpackers."
+        ],
+        "fun_fact": [
+            "Bangkok’s full name is the longest city name in the world.",
+            "It is home to the world’s largest solid gold Buddha."
+        ],
+        "trivia": [
+            "The city has a street food culture recognized by UNESCO.",
+            "Bangkok has more canals than Venice."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "clues": [
+            "Home to the world's tallest building.",
+            "Famous for its man-made islands shaped like a palm tree."
+        ],
+        "fun_fact": [
+            "Dubai has an indoor ski resort in the middle of the desert.",
+            "The city’s police force has luxury cars like Lamborghinis and Ferraris."
+        ],
+        "trivia": [
+            "The Burj Khalifa is over 828 meters tall.",
+            "Dubai has the world’s largest shopping mall."
+        ]
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "clues": [
+            "A city with colorful onion-domed cathedrals.",
+            "Home to the Kremlin and Red Square."
+        ],
+        "fun_fact": [
+            "Moscow's subway stations look like palaces.",
+            "The city has the deepest metro station in the world."
+        ],
+        "trivia": [
+            "Moscow was founded in the 12th century.",
+            "The Russian space program started here."
+        ]
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "clues": [
+            "Home to the CN Tower and a multicultural food scene.",
+            "Located on the shores of Lake Ontario."
+        ],
+        "fun_fact": [
+            "Toronto has over 200 ethnic groups and 180 languages spoken.",
+            "The city has the longest street in the world, Yonge Street."
+        ],
+        "trivia": [
+            "Toronto is known as 'Hollywood North' due to its film industry.",
+            "The PATH, an underground shopping complex, spans 30 kilometers."
+        ]
+    },
+    {
+        "city": "Beijing",
+        "country": "China",
+        "clues": [
+            "Home to a massive palace complex and the Great Wall.",
+            "Famous for its roast duck dish."
+        ],
+        "fun_fact": [
+            "Beijing has seven UNESCO World Heritage sites.",
+            "The Forbidden City has over 9,000 rooms."
+        ],
+        "trivia": [
+            "The city was known as Peking before its name was changed.",
+            "Beijing has been China’s capital for over 800 years."
+        ]
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "clues": [
+            "A city once divided by a famous wall.",
+            "Known for its vibrant art and music scene."
+        ],
+        "fun_fact": [
+            "Berlin has more bridges than Venice.",
+            "The city has one of the largest Turkish communities outside Turkey."
+        ],
+        "trivia": [
+            "Berlin’s famous currywurst was invented after World War II.",
+            "The Berlin Wall fell in 1989."
+        ]
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "clues": [
+            "Built on the ruins of an ancient Aztec city.",
+            "One of the largest cities in the world."
+        ],
+        "fun_fact": [
+            "Mexico City is sinking at a rate of 10 inches per year.",
+            "The city has more museums than any other in the world."
+        ],
+        "trivia": [
+            "It was originally called Tenochtitlan.",
+            "The city’s metro system is one of the cheapest in the world."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Home to a famous opera house with a sail-like design.",
+            "A city with one of the world’s most famous harbors."
+        ],
+        "fun_fact": [
+            "Sydney’s Harbour Bridge is the widest long-span bridge in the world.",
+            "The city’s beaches attract millions of visitors every year."
+        ],
+        "trivia": [
+            "Sydney was the first European settlement in Australia.",
+            "The city has an annual New Year’s Eve fireworks display watched worldwide."
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "Norway",
+        "clues": [
+            "Known for its Viking history and fjords.",
+            "Home to the Nobel Peace Prize ceremony."
+        ],
+        "fun_fact": [
+            "Oslo has a sculpture park with over 200 statues.",
+            "The city is surrounded by forests and hiking trails."
+        ],
+        "trivia": [
+            "Oslo was previously called Christiania.",
+            "Norway’s royal family lives in the city’s palace."
+        ]
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "clues": [
+            "A city built on 14 islands connected by bridges.",
+            "Home to the Nobel Prize Museum."
+        ],
+        "fun_fact": [
+            "Stockholm has a subway system known as the 'world’s longest art gallery.'",
+            "The city has an entire museum dedicated to a sunken 17th-century ship."
+        ],
+        "trivia": [
+            "Stockholm was founded in the 13th century.",
+            "The ABBA Museum is a popular attraction here."
+        ]
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "clues": [
+            "A capital city known for its saunas and design.",
+            "Located on the shores of the Baltic Sea."
+        ],
+        "fun_fact": [
+            "Helsinki has more than 3 million saunas.",
+            "The city is known for its 'white nights' during summer."
+        ],
+        "trivia": [
+            "It was once part of Sweden and Russia before becoming Finland’s capital.",
+            "Helsinki’s Market Square is famous for traditional Finnish food."
+        ]
+    },
+    {
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "clues": [
+            "Home to a famous castle on a volcanic rock.",
+            "Known for a festival celebrating arts and comedy."
+        ],
+        "fun_fact": [
+            "Edinburgh inspired the setting of Harry Potter.",
+            "The city’s underground streets still exist beneath the modern ones."
+        ],
+        "trivia": [
+            "It has a hill called Arthur’s Seat with stunning views.",
+            "Edinburgh hosts the world’s largest arts festival."
+        ]
+    },
+    {
+        "city": "Dublin",
+        "country": "Ireland",
+        "clues": [
+            "Famous for its literary history and Guinness beer.",
+            "Home to the oldest university in Ireland."
+        ],
+        "fun_fact": [
+            "Dublin has more than 750 pubs.",
+            "The city’s name comes from the Irish 'Dubh Linn,' meaning 'Black Pool.'"
+        ],
+        "trivia": [
+            "It is home to the Book of Kells, an ancient illuminated manuscript.",
+            "Dublin was founded by Vikings in the 9th century."
+        ]
+    },
+    {
+        "city": "New Delhi",
+        "country": "India",
+        "clues": [
+            "The capital of a country famous for its spices and monuments.",
+            "Home to a grand boulevard called Rajpath."
+        ],
+        "fun_fact": [
+            "New Delhi was designed by British architects in the early 1900s.",
+            "The Lotus Temple is one of the most visited buildings in the world."
+        ],
+        "trivia": [
+            "It has a street market called Chandni Chowk dating back to the 17th century.",
+            "The Red Fort was once the main residence of Mughal emperors."
+        ]
+    },
+    {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "clues": [
+            "The capital of the world’s largest island nation.",
+            "Known for its mix of cultures and street food."
+        ],
+        "fun_fact": [
+            "Jakarta is one of the fastest-sinking cities in the world.",
+            "The city has more than 10 million people."
+        ],
+        "trivia": [
+            "Its name means 'Complete Victory' in Sanskrit.",
+            "It was once called Batavia under Dutch colonial rule."
+        ]
+    },
+    {
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "clues": [
+            "Formerly known as Saigon.",
+            "Famous for its motorbike traffic and street food."
+        ],
+        "fun_fact": [
+            "The city has over 8 million motorbikes.",
+            "Pho, Vietnam’s famous noodle soup, is a staple here."
+        ],
+        "trivia": [
+            "The city’s War Remnants Museum tells stories of the Vietnam War.",
+            "Its name honors the country’s revolutionary leader."
+        ]
+    },
+    {
+        "city": "Havana",
+        "country": "Cuba",
+        "clues": [
+            "A city known for classic cars and salsa music.",
+            "Home to colorful colonial architecture."
+        ],
+        "fun_fact": [
+            "Havana was once the most fortified city in the Americas.",
+            "The city has the world’s longest seawall, the Malecón."
+        ],
+        "trivia": [
+            "Cuba’s most famous cigars are made here.",
+            "Havana’s old town is a UNESCO World Heritage site."
+        ]
+    },
+    {
+        "city": "Managua",
+        "country": "Nicaragua",
+        "clues": [
+            "A city located near active volcanoes and lakes.",
+            "The capital of a Central American country."
+        ],
+        "fun_fact": [
+            "Managua was almost destroyed by an earthquake in 1972.",
+            "Lake Managua is one of the largest in Central America."
+        ],
+        "trivia": [
+            "The city has no formal street names, just landmarks for directions.",
+            "It was originally a fishing village before becoming the capital."
+        ]
+    },
+    {
+        "city": "Kingston",
+        "country": "Jamaica",
+        "clues": [
+            "The birthplace of reggae music.",
+            "Home to the Bob Marley Museum."
+        ],
+        "fun_fact": [
+            "Kingston has one of the world’s largest natural harbors.",
+            "The city was rebuilt after an earthquake in 1692."
+        ],
+        "trivia": [
+            "Jamaica’s national dish, ackee and saltfish, is popular here.",
+            "Kingston is the largest English-speaking city in the Caribbean."
+        ]
+    },
+    {
+        "city": "Doha",
+        "country": "Qatar",
+        "clues": [
+            "A rapidly growing city in the Middle East.",
+            "Hosted the 2022 FIFA World Cup."
+        ],
+        "fun_fact": [
+            "Doha’s skyline has transformed dramatically in the last 30 years.",
+            "The city has a museum dedicated to Islamic art designed by I.M. Pei."
+        ],
+        "trivia": [
+            "Doha’s artificial island, The Pearl, is shaped like a string of pearls.",
+            "The city’s Souq Waqif is over 100 years old."
+        ]
+    },
+    {
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "clues": [
+            "The capital of the largest country in the Middle East.",
+            "Home to a futuristic-looking skyscraper with a large cutout."
+        ],
+        "fun_fact": [
+            "Riyadh means 'gardens' in Arabic.",
+            "The city experiences extreme temperature changes between day and night."
+        ],
+        "trivia": [
+            "It has a desert known as the Empty Quarter, one of the largest sand deserts in the world.",
+            "Camel racing is a popular sport here."
+        ]
+    },
+    {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "clues": [
+            "A city famous for its white buildings and oceanfront.",
+            "Home to the largest mosque in Africa."
+        ],
+        "fun_fact": [
+            "The Hassan II Mosque has the world’s tallest minaret.",
+            "The famous movie 'Casablanca' was not actually filmed here."
+        ],
+        "trivia": [
+            "Casablanca means 'White House' in Spanish.",
+            "It is Morocco’s largest city and economic hub."
+        ]
+    },
+    {
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "clues": [
+            "The highest capital city in Africa.",
+            "Home to the headquarters of the African Union."
+        ],
+        "fun_fact": [
+            "The city’s name means 'New Flower' in Amharic.",
+            "Ethiopia follows its own calendar, which is seven years behind the Gregorian calendar."
+        ],
+        "trivia": [
+            "Lucy, one of the oldest human skeletons, was discovered in Ethiopia.",
+            "Addis Ababa has no colonial history, as Ethiopia was never colonized."
+        ]
+    },
+    {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "clues": [
+            "Gateway to Mount Everest.",
+            "Famous for its ancient temples and stupas."
+        ],
+        "fun_fact": [
+            "Kathmandu’s Durbar Square is a UNESCO World Heritage Site.",
+            "The city experiences frequent earthquakes due to its location."
+        ],
+        "trivia": [
+            "The name Kathmandu comes from 'Kasthamandap,' meaning 'wooden pavilion.'",
+            "It was once a key trade route between India and Tibet."
+        ]
+    },
+    {
+        "city": "Ulaanbaatar",
+        "country": "Mongolia",
+        "clues": [
+            "The coldest capital city in the world.",
+            "Famous for its nomadic culture and vast steppes."
+        ],
+        "fun_fact": [
+            "Mongolia has more horses than people.",
+            "The city’s name means 'Red Hero' in Mongolian."
+        ],
+        "trivia": [
+            "Genghis Khan’s legacy is deeply tied to the city.",
+            "Naadam Festival, featuring horse racing and wrestling, is a major event."
+        ]
+    },
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "The northernmost capital in the world.",
+            "Known for its geothermal pools and northern lights."
+        ],
+        "fun_fact": [
+            "The city has no McDonald's restaurants.",
+            "Reykjavik’s name means 'Smoky Bay' due to steam from hot springs."
+        ],
+        "trivia": [
+            "Iceland has no standing army.",
+            "Reykjavik was settled by Vikings in the 9th century."
+        ]
+    },
+    {
+        "city": "Santiago",
+        "country": "Chile",
+        "clues": [
+            "Located between the Andes Mountains and the Pacific Ocean.",
+            "The capital of a long and narrow country."
+        ],
+        "fun_fact": [
+            "Santiago has a famous hill called Cerro San Cristóbal with a giant statue of the Virgin Mary.",
+            "Chile has the largest swimming pool in the world."
+        ],
+        "trivia": [
+            "The Atacama Desert, one of the driest places on Earth, is in Chile.",
+            "The city has a vibrant street art scene."
+        ]
+    },
+    {
+        "city": "Caracas",
+        "country": "Venezuela",
+        "clues": [
+            "The birthplace of Simón Bolívar.",
+            "Located near the Caribbean Sea."
+        ],
+        "fun_fact": [
+            "Caracas is home to one of the world’s highest cable cars.",
+            "The city has no natural lakes."
+        ],
+        "trivia": [
+            "It is one of the most densely populated cities in South America.",
+            "The world’s highest uninterrupted waterfall, Angel Falls, is in Venezuela."
+        ]
+    },
+    {
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "clues": [
+            "A coastal city with long beaches and tango music.",
+            "The capital of a country known for its relaxed lifestyle."
+        ],
+        "fun_fact": [
+            "Montevideo has one of the highest quality of life rankings in Latin America.",
+            "Uruguay was the first country to legalize marijuana."
+        ],
+        "trivia": [
+            "Montevideo’s name means 'I see a mountain' in Portuguese.",
+            "The city’s Mercado del Puerto is famous for grilled meat."
+        ]
+    },
+    {
+        "city": "Port Louis",
+        "country": "Mauritius",
+        "clues": [
+            "A tropical island city in the Indian Ocean.",
+            "Known for its French and Indian influences."
+        ],
+        "fun_fact": [
+            "Mauritius was the only known home of the extinct dodo bird.",
+            "The island has no indigenous population."
+        ],
+        "trivia": [
+            "Port Louis was a major stopover for spice traders.",
+            "The city has a UNESCO-listed colonial fort."
+        ]
+    },
+    {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "clues": [
+            "The modern planned capital of a South Asian country.",
+            "Home to one of the largest mosques in the world."
+        ],
+        "fun_fact": [
+            "Islamabad was built in the 1960s to replace Karachi as the capital.",
+            "It is one of the greenest capitals in the world."
+        ],
+        "trivia": [
+            "The Faisal Mosque was a gift from Saudi Arabia.",
+            "The city is surrounded by the Margalla Hills."
+        ]
+    },
+    {
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "clues": [
+            "A city famous for its towering skyscrapers and oil wealth.",
+            "Home to a landmark shaped like a water tower."
+        ],
+        "fun_fact": [
+            "Kuwait has the sixth-largest oil reserves in the world.",
+            "The Kuwait Towers offer panoramic views of the city."
+        ],
+        "trivia": [
+            "The city was almost completely rebuilt after the Gulf War.",
+            "Kuwait City has some of the tallest buildings in the Middle East."
+        ]
+    },
+    {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "clues": [
+            "A port city known for tea and spices.",
+            "The largest city in an island nation south of India."
+        ],
+        "fun_fact": [
+            "Colombo has one of the busiest ports in South Asia.",
+            "Sri Lanka is famous for Ceylon tea."
+        ],
+        "trivia": [
+            "The city’s name comes from a Portuguese word meaning 'mango harbor.'",
+            "It was a major stop on the ancient Silk Road."
+        ]
+    },
+    {
+        "city": "Brussels",
+        "country": "Belgium",
+        "clues": [
+            "The headquarters of the European Union.",
+            "Famous for waffles, chocolate, and a peeing statue."
+        ],
+        "fun_fact": [
+            "Brussels is home to over 180 nationalities.",
+            "It has more comic book artists per capita than any other city."
+        ],
+        "trivia": [
+            "The city's most famous statue is called Manneken Pis.",
+            "Brussels sprouts are named after the city."
+        ]
+    },
+    {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "clues": [
+            "A city famous for its white buildings and oceanfront.",
+            "Home to the largest mosque in Africa."
+        ],
+        "fun_fact": [
+            "The Hassan II Mosque has the world’s tallest minaret.",
+            "The famous movie 'Casablanca' was not actually filmed here."
+        ],
+        "trivia": [
+            "Casablanca means 'White House' in Spanish.",
+            "It is Morocco’s largest city and economic hub."
+        ]
+    },
+    {
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "clues": [
+            "The highest capital city in Africa.",
+            "Home to the headquarters of the African Union."
+        ],
+        "fun_fact": [
+            "The city’s name means 'New Flower' in Amharic.",
+            "Ethiopia follows its own calendar, which is seven years behind the Gregorian calendar."
+        ],
+        "trivia": [
+            "Lucy, one of the oldest human skeletons, was discovered in Ethiopia.",
+            "Addis Ababa has no colonial history, as Ethiopia was never colonized."
+        ]
+    },
+    {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "clues": [
+            "Gateway to Mount Everest.",
+            "Famous for its ancient temples and stupas."
+        ],
+        "fun_fact": [
+            "Kathmandu’s Durbar Square is a UNESCO World Heritage Site.",
+            "The city experiences frequent earthquakes due to its location."
+        ],
+        "trivia": [
+            "The name Kathmandu comes from 'Kasthamandap,' meaning 'wooden pavilion.'",
+            "It was once a key trade route between India and Tibet."
+        ]
+    },
+    {
+        "city": "Ulaanbaatar",
+        "country": "Mongolia",
+        "clues": [
+            "The coldest capital city in the world.",
+            "Famous for its nomadic culture and vast steppes."
+        ],
+        "fun_fact": [
+            "Mongolia has more horses than people.",
+            "The city’s name means 'Red Hero' in Mongolian."
+        ],
+        "trivia": [
+            "Genghis Khan’s legacy is deeply tied to the city.",
+            "Naadam Festival, featuring horse racing and wrestling, is a major event."
+        ]
+    },
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "The northernmost capital in the world.",
+            "Known for its geothermal pools and northern lights."
+        ],
+        "fun_fact": [
+            "The city has no McDonald's restaurants.",
+            "Reykjavik’s name means 'Smoky Bay' due to steam from hot springs."
+        ],
+        "trivia": [
+            "Iceland has no standing army.",
+            "Reykjavik was settled by Vikings in the 9th century."
+        ]
+    },
+    {
+        "city": "Santiago",
+        "country": "Chile",
+        "clues": [
+            "Located between the Andes Mountains and the Pacific Ocean.",
+            "The capital of a long and narrow country."
+        ],
+        "fun_fact": [
+            "Santiago has a famous hill called Cerro San Cristóbal with a giant statue of the Virgin Mary.",
+            "Chile has the largest swimming pool in the world."
+        ],
+        "trivia": [
+            "The Atacama Desert, one of the driest places on Earth, is in Chile.",
+            "The city has a vibrant street art scene."
+        ]
+    },
+    {
+        "city": "Caracas",
+        "country": "Venezuela",
+        "clues": [
+            "The birthplace of Simón Bolívar.",
+            "Located near the Caribbean Sea."
+        ],
+        "fun_fact": [
+            "Caracas is home to one of the world’s highest cable cars.",
+            "The city has no natural lakes."
+        ],
+        "trivia": [
+            "It is one of the most densely populated cities in South America.",
+            "The world’s highest uninterrupted waterfall, Angel Falls, is in Venezuela."
+        ]
+    },
+    {
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "clues": [
+            "A coastal city with long beaches and tango music.",
+            "The capital of a country known for its relaxed lifestyle."
+        ],
+        "fun_fact": [
+            "Montevideo has one of the highest quality of life rankings in Latin America.",
+            "Uruguay was the first country to legalize marijuana."
+        ],
+        "trivia": [
+            "Montevideo’s name means 'I see a mountain' in Portuguese.",
+            "The city’s Mercado del Puerto is famous for grilled meat."
+        ]
+    },
+    {
+        "city": "Port Louis",
+        "country": "Mauritius",
+        "clues": [
+            "A tropical island city in the Indian Ocean.",
+            "Known for its French and Indian influences."
+        ],
+        "fun_fact": [
+            "Mauritius was the only known home of the extinct dodo bird.",
+            "The island has no indigenous population."
+        ],
+        "trivia": [
+            "Port Louis was a major stopover for spice traders.",
+            "The city has a UNESCO-listed colonial fort."
+        ]
+    },
+    {
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "clues": [
+            "The modern planned capital of a South Asian country.",
+            "Home to one of the largest mosques in the world."
+        ],
+        "fun_fact": [
+            "Islamabad was built in the 1960s to replace Karachi as the capital.",
+            "It is one of the greenest capitals in the world."
+        ],
+        "trivia": [
+            "The Faisal Mosque was a gift from Saudi Arabia.",
+            "The city is surrounded by the Margalla Hills."
+        ]
+    },
+    {
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "clues": [
+            "A city famous for its towering skyscrapers and oil wealth.",
+            "Home to a landmark shaped like a water tower."
+        ],
+        "fun_fact": [
+            "Kuwait has the sixth-largest oil reserves in the world.",
+            "The Kuwait Towers offer panoramic views of the city."
+        ],
+        "trivia": [
+            "The city was almost completely rebuilt after the Gulf War.",
+            "Kuwait City has some of the tallest buildings in the Middle East."
+        ]
+    },
+    {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "clues": [
+            "A port city known for tea and spices.",
+            "The largest city in an island nation south of India."
+        ],
+        "fun_fact": [
+            "Colombo has one of the busiest ports in South Asia.",
+            "Sri Lanka is famous for Ceylon tea."
+        ],
+        "trivia": [
+            "The city’s name comes from a Portuguese word meaning 'mango harbor.'",
+            "It was a major stop on the ancient Silk Road."
+        ]
+    },
+    {
+        "city": "Brussels",
+        "country": "Belgium",
+        "clues": [
+            "The headquarters of the European Union.",
+            "Famous for waffles, chocolate, and a peeing statue."
+        ],
+        "fun_fact": [
+            "Brussels is home to over 180 nationalities.",
+            "It has more comic book artists per capita than any other city."
+        ],
+        "trivia": [
+            "The city's most famous statue is called Manneken Pis.",
+            "Brussels sprouts are named after the city."
+        ]
+    },
+    {
+        "city": "La Paz",
+        "country": "Bolivia",
+        "clues": [
+            "The highest capital city in the world.",
+            "Famous for its colorful markets and cable cars."
+        ],
+        "fun_fact": [
+            "La Paz sits at an altitude of over 3,600 meters (11,800 feet).",
+            "It has the world's highest golf course and football stadium."
+        ],
+        "trivia": [
+            "The city is surrounded by snow-capped mountains.",
+            "Its name means 'The Peace' in Spanish."
+        ]
+    },
+    {
+        "city": "Victoria",
+        "country": "Seychelles",
+        "clues": [
+            "The capital of a tropical island nation in the Indian Ocean.",
+            "One of the smallest capitals in the world."
+        ],
+        "fun_fact": [
+            "Seychelles is home to the rare coco de mer palm.",
+            "Victoria has a miniature version of London’s Big Ben."
+        ],
+        "trivia": [
+            "It was a former British colony and retains a mix of cultures.",
+            "Seychelles has some of the most beautiful beaches in the world."
+        ]
+    },
+    {
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "clues": [
+            "A city with sulfur baths and a mix of European and Asian influences.",
+            "Famous for its cobblestone old town and scenic river views."
+        ],
+        "fun_fact": [
+            "Tbilisi’s name comes from the Georgian word for ‘warm’ due to its natural hot springs.",
+            "Georgia is one of the oldest wine-producing regions in the world."
+        ],
+        "trivia": [
+            "The city has a unique alphabet that is one of only 14 in the world.",
+            "It was an important stop on the Silk Road."
+        ]
+    },
+    {
+        "city": "Muscat",
+        "country": "Oman",
+        "clues": [
+            "A city with stunning white buildings against a backdrop of mountains.",
+            "Home to a grand mosque built by a beloved sultan."
+        ],
+        "fun_fact": [
+            "The Sultan Qaboos Grand Mosque has one of the largest chandeliers in the world.",
+            "Oman was once known as the ‘perfume capital’ due to its production of frankincense."
+        ],
+        "trivia": [
+            "Muscat has been an important trading port for centuries.",
+            "The city bans skyscrapers to preserve its traditional skyline."
+        ]
+    },
+    {
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "clues": [
+            "The capital of an island famous for its unique wildlife.",
+            "A city built on hills with colorful houses."
+        ],
+        "fun_fact": [
+            "Madagascar is home to species found nowhere else, including lemurs.",
+            "The city’s name is often shortened to ‘Tana’ by locals."
+        ],
+        "trivia": [
+            "The island was once ruled by powerful queens.",
+            "It was a key stop for pirates in the Indian Ocean."
+        ]
+    },
+    {
+        "city": "Porto",
+        "country": "Portugal",
+        "clues": [
+            "Famous for its riverfront and wine cellars.",
+            "Known for producing a sweet fortified wine."
+        ],
+        "fun_fact": [
+            "Porto’s historic center is a UNESCO World Heritage Site.",
+            "The Livraria Lello bookstore inspired J.K. Rowling when writing Harry Potter."
+        ],
+        "trivia": [
+            "Porto gave its name to Portugal.",
+            "The city’s Francesinha sandwich is a must-try dish."
+        ]
+    },
+    {
+        "city": "Havana",
+        "country": "Cuba",
+        "clues": [
+            "Famous for vintage cars and colonial architecture.",
+            "A city with a lively music and dance culture."
+        ],
+        "fun_fact": [
+            "Cuba’s capital has more classic American cars than any other city.",
+            "Havana’s Malecón is a famous seaside promenade."
+        ],
+        "trivia": [
+            "The city was founded by the Spanish in 1519.",
+            "Havana cigars are world-famous."
+        ]
+    }
+]
