@@ -10,7 +10,9 @@ const Game = () => {
 
   const fetchRandomDestination = async () => {
     try {
-      const res = await axios.get("https://globetrotterapi.vercel.app/random");
+      const res = await axios.get(
+        "https://globetrotterapi.onrender.com/api/destinations/random"
+      );
       setDestination(res.data);
       setGuess("");
       setResult(null);
@@ -22,10 +24,13 @@ const Game = () => {
 
   const handleGuess = async () => {
     try {
-      const res = await axios.post("https://globetrotterapi.vercel.app/guess", {
-        destinationId: destination._id,
-        guess,
-      });
+      const res = await axios.post(
+        "https://globetrotterapi.onrender.com/api/destinations/guess",
+        {
+          destinationId: destination._id,
+          guess,
+        }
+      );
       setResult(res.data);
       setTimeout(fetchRandomDestination, 3000);
     } catch (err) {
